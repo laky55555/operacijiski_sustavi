@@ -1,4 +1,4 @@
-# operacijiski_sustavi
+# operacijski_sustavi
 University class about operating systems
 
 http://www.zemris.fer.hr/~leonardo/os/math/labosi/
